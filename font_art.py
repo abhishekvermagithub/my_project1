@@ -14,9 +14,6 @@ while True:
     epic
     slant
     banner
-    big
-    block
-    isometric1
     roman
     larry3d
     bubble
